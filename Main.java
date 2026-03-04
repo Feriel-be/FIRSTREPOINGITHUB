@@ -4,5 +4,6 @@ public class Main {
         System.out.println("bonjour feriel !");
         System.out.println("Bonjour !");
           System.out.println("hello fifigit !");
+    System.out.println("age 20 ans !");
     }
 }
